@@ -1,3 +1,3 @@
-Backend.
+Dragon News Backend
 
-Server Side developemnt od Dragon News using Node.js, Express.js.
+Server Side developemnt of Dragon News using Node.js, Express.js.
